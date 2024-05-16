@@ -28,3 +28,10 @@ This app has all the inital steps for setting up a django file already done
         - remove any keys
 9. Start Github
     1. `git init`
+    2. make initial commit
+    3. link to github.com
+10. Finish app
+    1. view.py
+    2. urls.py
+    3. index.html
+    4. test and commit
